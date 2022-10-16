@@ -12,7 +12,7 @@
 ### ✅ Main Features
 - Pas de minimap quand le joueur est hors d'un véhicule
 - Minimap constant si il a sur lui l'item "gps"
-- Compatible avec les modes cinematiques par exemples, suffit d'ajouter ce trigger lors de l'activation du mode cinematique par exemple
+- Compatible avec les modes cinematiques etc... suffit d'ajouter ce trigger lors de l'activation du mode cinematique par exemple
 ```
 TriggerEvent("minimap:cinoche")
 ```
