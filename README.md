@@ -32,4 +32,5 @@ ensure naben-gps
 0.00 MS en resmon
 
 
-Script made with Love by Naben
+  <h1 align="center">Script made with 💓 by Naben</h1>
+
