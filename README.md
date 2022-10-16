@@ -1,18 +1,10 @@
 # naben-gps
 
-  <h1 align="center">JD_logsV3</h1>
+  <h1 align="center">Naben GPS</h1>
 
   <p align="center">
-    New JD_logs Server logger.
-    <br />    
-    <a href="https://discord.gg/prefech">Report Bug</a>
-    ·
-    <a href="https://discord.gg/prefech">Request Feature</a>
-    ·
-    <a href="https://docs.prefech.com/jd_logsv3/">Documentation</a>
+    Script remplaçant le esx_gps.
   </p>
-  <a href="https://discord.gg/prefech" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/721339695199682611/widget.png?style=banner2"></a>
-</div>
 
 ### ✅ Main Features
 - Pas de minimap quand le joueur est hors d'un véhicule
