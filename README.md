@@ -30,3 +30,6 @@ ensure naben-gps
 
 ### 📈 Resmon Values.
 0.00 MS en resmon
+
+
+Script made with Love by Naben
